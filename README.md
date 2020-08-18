@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This repo is archived, visit the [mono repo](https://github.com/gravwell/gravwell) for current code.
+
 # manager
 Simple daemon manager for use in docker containers.
 
